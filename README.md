@@ -7,61 +7,29 @@ I'm a blockchain enthusiast with a passion for decentralized technologies and sm
 - **Senior Blockchain Engineer**: Currently, I work as a Senior Blockchain Engineer, where I apply my expertise in blockchain technologies to develop robust and secure solutions.
 - **Senior Independent Auditor**: As an Independent Auditor, I conduct independent audits to ensure the integrity and security of smart contracts, contributing to the overall safety of the blockchain ecosystem.
 
-## Skills
-
-- **Ethereum & EVM Development**  
-  ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
-
-- **Solana Development**  
-  ![Solana](https://img.shields.io/badge/Solana-000000?style=for-the-badge&logo=solana&logoColor=white)
-
-- **Decentralized Finance (DeFi)**   
-  ![DeFi](https://img.shields.io/badge/DeFi-7343B6?style=for-the-badge&logo=ethereum&logoColor=white)
-
-- **NFTs (Non-Fungible Tokens)**   
+## Skills 
+  ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white) 
+  ![Solana](https://img.shields.io/badge/Solana-000000?style=for-the-badge&logo=solana&logoColor=white) 
+  ![DeFi](https://img.shields.io/badge/DeFi-7343B6?style=for-the-badge&logo=ethereum&logoColor=white) 
   ![NFTs](https://img.shields.io/badge/NFT-FF4088?style=for-the-badge&logo=erc721&logoColor=white)
-
-- **Solidity and Smart Contract Development**  
   ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
-
-- **Rust Development**  
   ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-
-- **Python Programming**  
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-- **Blockchain Tools: Hardhat, Truffle, Foundry, Anchor**  
   ![Hardhat](https://img.shields.io/badge/Hardhat-FFAE33?style=for-the-badge&logo=ethereum&logoColor=black)
   ![Truffle](https://img.shields.io/badge/Truffle-5E469C?style=for-the-badge&logo=truffle&logoColor=white)
   ![Foundry](https://img.shields.io/badge/Foundry-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
-  ![Anchor](https://img.shields.io/badge/Anchor-15A9FD?style=for-the-badge&logo=solana&logoColor=white)
-
-- **JavaScript and Ether.js**  
+  ![Anchor](https://img.shields.io/badge/Anchor-15A9FD?style=for-the-badge&logo=solana&logoColor=white) 
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  ![ethers.js](https://img.shields.io/badge/ethers.js-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
-
-- **Testing: Mocha, Ganache, Chai**  
+  ![ethers.js](https://img.shields.io/badge/ethers.js-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white) 
   ![Mocha](https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=white)
   ![Ganache](https://img.shields.io/badge/Ganache-7343B6?style=for-the-badge&logo=ethereum&logoColor=white)
   ![Chai](https://img.shields.io/badge/Chai-A30701?style=for-the-badge&logo=chai&logoColor=white)
-
-- **Problem Solving and Algorithms**
 ![Algorithms](https://img.shields.io/badge/Algorithms-FF7139?style=for-the-badge&logo=codecademy&logoColor=white)
-
-- **Data Structures**
 ![Data Structures](https://img.shields.io/badge/Data%20Structures-0000FF?style=for-the-badge)
-
-- **Node.js and React**
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
   ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-
-- **OpenZeppelin Contracts**
 ![OpenZeppelin](https://img.shields.io/badge/OpenZeppelin-4E5EE4?style=for-the-badge&logo=openzeppelin&logoColor=white)
-
-- **IPFS (InterPlanetary File System)**
 ![IPFS](https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white)
-
-- **Ethereum Improvement Proposals (EIPs)**
 ![EIPs](https://img.shields.io/badge/EIPs-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
  
 
