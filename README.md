@@ -46,23 +46,23 @@ I'm a blockchain enthusiast with a passion for decentralized technologies and sm
   ![Chai](https://img.shields.io/badge/Chai-A30701?style=for-the-badge&logo=chai&logoColor=white)
 
 - **Problem Solving and Algorithms**
-  ![Algorithms](https://img.shields.io/badge/Algorithms-FF7139?style=for-the-badge&logo=codecademy&logoColor=white)
+![Algorithms](https://img.shields.io/badge/Algorithms-FF7139?style=for-the-badge&logo=codecademy&logoColor=white)
 
-- **Data Structures** 
-  ![Data Structures](https://img.shields.io/badge/Data%20Structures-0000FF?style=for-the-badge)
+- **Data Structures**
+![Data Structures](https://img.shields.io/badge/Data%20Structures-0000FF?style=for-the-badge)
 
-- **Node.js and React**  
-  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+- **Node.js and React**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
   ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
-- **OpenZeppelin Contracts** 
-  ![OpenZeppelin](https://img.shields.io/badge/OpenZeppelin-4E5EE4?style=for-the-badge&logo=openzeppelin&logoColor=white)
+- **OpenZeppelin Contracts**
+![OpenZeppelin](https://img.shields.io/badge/OpenZeppelin-4E5EE4?style=for-the-badge&logo=openzeppelin&logoColor=white)
 
-- **IPFS (InterPlanetary File System)**  
-  ![IPFS](https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white)
+- **IPFS (InterPlanetary File System)**
+![IPFS](https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white)
 
 - **Ethereum Improvement Proposals (EIPs)**
-  ![EIPs](https://img.shields.io/badge/EIPs-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
+![EIPs](https://img.shields.io/badge/EIPs-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
  
 
 ## Projects and Protocols
