@@ -65,40 +65,17 @@ I've worked with various blockchain projects and protocols, including:
 - ⚡ Fun fact: I ❤️ **Caffeine** ☕.  
 
 ## Languages and Tools
-
-- **Visual Studio Code**  
-  ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
-- **Hardhat**  
-  ![Hardhat](https://img.shields.io/badge/Hardhat-FFAE33?style=for-the-badge&logo=ethereum&logoColor=black)
-
-- **MERN**  
-  > *MERN doesn’t have an official single logo, but here’s a placeholder referencing Node.js.*  
-  ![MERN](https://img.shields.io/badge/MERN-339933?style=for-the-badge&logo=node.js&logoColor=white)
-
-- **Solidity**  
+ 
+  ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) 
+  ![Hardhat](https://img.shields.io/badge/Hardhat-FFAE33?style=for-the-badge&logo=ethereum&logoColor=black) 
+  ![MERN](https://img.shields.io/badge/MERN-339933?style=for-the-badge&logo=node.js&logoColor=white) 
   ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
-
-- **Vyper**  
-  > *There isn’t an official badge for Vyper, here’s a Python reference:*  
-  ![Vyper](https://img.shields.io/badge/Vyper-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-- **Python**  
+  ![Vyper](https://img.shields.io/badge/Vyper-3776AB?style=for-the-badge&logo=python&logoColor=white) 
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-- **Golang**  
-  ![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-
-- **JavaScript**  
+  ![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) 
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-- **C++**  
   ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
-- **Git**  
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-- **GitHub**  
   ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 
