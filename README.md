@@ -15,12 +15,10 @@ I'm a blockchain enthusiast with a passion for decentralized technologies and sm
 - **Solana Development**  
   ![Solana](https://img.shields.io/badge/Solana-000000?style=for-the-badge&logo=solana&logoColor=white)
 
-- **Decentralized Finance (DeFi)**  
-  > *No official DeFi badge — placeholder below referencing DeFi.*  
+- **Decentralized Finance (DeFi)**   
   ![DeFi](https://img.shields.io/badge/DeFi-7343B6?style=for-the-badge&logo=ethereum&logoColor=white)
 
-- **NFTs (Non-Fungible Tokens)**  
-  > *No official NFT badge — placeholder below referencing NFTs.*  
+- **NFTs (Non-Fungible Tokens)**   
   ![NFTs](https://img.shields.io/badge/NFT-FF4088?style=for-the-badge&logo=erc721&logoColor=white)
 
 - **Solidity and Smart Contract Development**  
@@ -47,27 +45,23 @@ I'm a blockchain enthusiast with a passion for decentralized technologies and sm
   ![Ganache](https://img.shields.io/badge/Ganache-7343B6?style=for-the-badge&logo=ethereum&logoColor=white)
   ![Chai](https://img.shields.io/badge/Chai-A30701?style=for-the-badge&logo=chai&logoColor=white)
 
-- **Problem Solving and Algorithms**  
-  > *No direct badge — placeholder.*  
+- **Problem Solving and Algorithms**
   ![Algorithms](https://img.shields.io/badge/Algorithms-FF7139?style=for-the-badge&logo=codecademy&logoColor=white)
 
-- **Data Structures**  
-  > *No direct badge — placeholder.*  
+- **Data Structures** 
   ![Data Structures](https://img.shields.io/badge/Data%20Structures-0000FF?style=for-the-badge)
 
 - **Node.js and React**  
   ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
   ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
-- **OpenZeppelin Contracts**  
-  > *No official badge — placeholder below referencing OpenZeppelin.*  
+- **OpenZeppelin Contracts** 
   ![OpenZeppelin](https://img.shields.io/badge/OpenZeppelin-4E5EE4?style=for-the-badge&logo=openzeppelin&logoColor=white)
 
 - **IPFS (InterPlanetary File System)**  
   ![IPFS](https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white)
 
-- **Ethereum Improvement Proposals (EIPs)**  
-  > *Placeholder referencing Ethereum.*  
+- **Ethereum Improvement Proposals (EIPs)**
   ![EIPs](https://img.shields.io/badge/EIPs-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
  
 
