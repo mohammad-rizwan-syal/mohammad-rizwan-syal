@@ -10,27 +10,31 @@ I'm a blockchain enthusiast with a passion for decentralized technologies and sm
 ## Projects and Protocols
 I've worked with various blockchain projects and protocols, including:
 
-- 🏦 Aave  
-- 🔄 Uniswap  
-- 💰 Compound Protocol  
-- 🛠 Euler Finance  
-- 🚗 Gear Box  
-- 🍇 Apwine  
-- 📈 1inch  
-- 💳 MakerDAO  
-- ⚙ Hyperlane  
-- 🌐 LayerZero  
-- 🔄 Celer Sgn V2  
-- 🧪 PSM Module  
-- 💱 Unified Liquidity Mechanisms (dAMM, SLAMM, VAMM, Delta Algorithm)  
-- 🌉 Cross-Chain Liquidity Bridges  
-- 📈 Perpetual Futures  
-- 📈 Volmex Finance  
-- 🎨 Opensea  
-- 🕹 Sandbox  
-- 🎨 Enjin  
-- 🎨 Rarible  
-- 🎮 CryptoPunks  
+![Aave](https://img.shields.io/badge/Aave-B6509E?style=for-the-badge&logo=ethereum&logoColor=white)  
+![Uniswap](https://img.shields.io/badge/Uniswap-FF007A?style=for-the-badge&logo=ethereum&logoColor=white)  
+![Pancakeswap](https://img.shields.io/badge/Pancakeswap-7E49FF?style=for-the-badge&logo=ethereum&logoColor=white)  
+![Quickswap](https://img.shields.io/badge/Quickswap-61A8F8?style=for-the-badge&logo=ethereum&logoColor=white)  
+![Kyberswap](https://img.shields.io/badge/Kyberswap-31CB9E?style=for-the-badge&logo=ethereum&logoColor=white)  
+![Sushiswap](https://img.shields.io/badge/Sushiswap-F43B8E?style=for-the-badge&logo=ethereum&logoColor=white)  
+![Raydium](https://img.shields.io/badge/Raydium-8B81FF?style=for-the-badge&logo=ethereum&logoColor=white)  
+![Serum Dex](https://img.shields.io/badge/Serum%20Dex-2FBED4?style=for-the-badge&logo=ethereum&logoColor=white)  
+![Balancer](https://img.shields.io/badge/Balancer-1E1E1E?style=for-the-badge&logo=ethereum&logoColor=white)  
+![dYdX](https://img.shields.io/badge/dYdX-6B26F2?style=for-the-badge&logo=ethereum&logoColor=white)  
+![Compound](https://img.shields.io/badge/Compound-00D395?style=for-the-badge&logo=ethereum&logoColor=white)  
+![1inch](https://img.shields.io/badge/1inch-2743A0?style=for-the-badge&logo=ethereum&logoColor=white)  
+![LayerZero](https://img.shields.io/badge/LayerZero-000000?style=for-the-badge&logo=ethereum&logoColor=white)  
+![Unified Liquidity Mechanisms](https://img.shields.io/badge/Unified%20Liquidity%20Mechanisms-7343B6?style=for-the-badge&logo=ethereum&logoColor=white)  
+![Cross-Chain Liquidity Bridges](https://img.shields.io/badge/Cross--Chain%20Liquidity%20Bridges-7343B6?style=for-the-badge&logo=ethereum&logoColor=white)  
+![Opensea](https://img.shields.io/badge/Opensea-2081E2?style=for-the-badge&logo=ethereum&logoColor=white)  
+![Sandbox](https://img.shields.io/badge/Sandbox-00ADE4?style=for-the-badge&logo=ethereum&logoColor=white)  
+![Rarible](https://img.shields.io/badge/Rarible-FEDA03?style=for-the-badge&logo=ethereum&logoColor=white)  
+![Centralized Exchanges](https://img.shields.io/badge/Centralized%20Exchanges-333333?style=for-the-badge&logo=ethereum&logoColor=white)  
+![Decentralized Exchanges](https://img.shields.io/badge/Decentralized%20Exchanges-333333?style=for-the-badge&logo=ethereum&logoColor=white)  
+![Staking](https://img.shields.io/badge/Staking-7343B6?style=for-the-badge&logo=ethereum&logoColor=white)  
+![Flash Loans](https://img.shields.io/badge/Flash%20Loans-7343B6?style=for-the-badge&logo=ethereum&logoColor=white)  
+![DeFi](https://img.shields.io/badge/DeFi-7343B6?style=for-the-badge&logo=ethereum&logoColor=white)  
+![Dapps](https://img.shields.io/badge/Dapps-7343B6?style=for-the-badge&logo=ethereum&logoColor=white)
+
 
 ## More About Me
 - 🌱 I’m currently working as a **Lead Blockchain Developer** and have been familiar with DeFi, NFTs, Web3, Ether.js, HardHat, Foundry, Truffle, Slither, Remix, Anchor and many ERC standards and different protocols.  
